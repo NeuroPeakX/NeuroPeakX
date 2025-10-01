@@ -7,12 +7,7 @@
   <!-- Replace with any GIF you like -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </p>
-
-<h2 align="center">✨ Crafting Code, Solving Problems ✨</h2>
-<div align="center">
-MERN stack developer passionate about crafting robust web applications. Keen on competitive programming to sharpen problem-solving skills. Exploring the depths of web security to build secure systems.
-</div>
-
+    
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
