@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+k02!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome!+👋;+I'm+NeuroPeakX!;" />
 </h1>
 
 <br/>
@@ -29,12 +29,6 @@ MERN stack developer passionate about crafting robust web applications. Keen on 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sire&theme=react" alt="Profile statistics" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sire&theme=react" alt="Data on commits per day" width="49.7%" height="auto"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sire&theme=react&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="quote" />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-sire&icon=0&color=0)](https://visitcount.itsvg.in)
