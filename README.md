@@ -107,7 +107,7 @@ I'm an <strong>AI Engineer & Data Scientist</strong> passionate about building i
     </a>
   </td>
   <td align="center" style="padding: 10px;">
-    <a href="https://t.me/neuropeakx" target="_blank">
+    <a href="https://t.me/neuropeakx_0000" target="_blank">
       <img src="https://img.icons8.com/color/96/telegram-app.png" width="40"/><br>
       <strong>Telegram</strong>
     </a>
