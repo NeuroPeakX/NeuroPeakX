@@ -20,8 +20,6 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 > 👁️ **Computer Vision:** AI avatars & video generation, visual search, OCR, image/video analysis  
 > ☁️ **Model Deployment:** Runpod, Hugging Face, Replicate, AWS, Docker  
 
----
-
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -85,8 +83,6 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </table>
 </details>
 
----
-
 ## 🤝**Let's Connect.**
 
 <div align="center">
@@ -121,5 +117,8 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
   </td>
 </tr>
 </table>
+
+
+### 💖 *"If you find my work interesting, consider giving a ⭐ to my repositories!"*
 
 </div>
