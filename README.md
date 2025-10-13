@@ -7,21 +7,21 @@
 </h4>
 <br/>
 
-## 👨‍💻 **About Me**
+<h3> ✨About Me </h3> 
 
 I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
 
 #### 🧠 **What I Bring to the Table**
 
-> 💡 **AI & Machine Learning:** Model training, fine-tuning, optimization, and evaluation  
-> 📊 **Data Science:** Data analysis, visualization, and predictive modeling  
-> 🤖 **Generative AI & Chatbots:** LLM integration, LangChain, RAG, STT/TTS, and conversational AI systems  
-> 🎙️ **Voice & Automation Systems:** Voice AI agents (Vapi AI, Retell AI, Twilio), workflow automation (n8n, Zapier, Make.com)  
-> 👁️ **Computer Vision:** AI avatars & video generation, visual search, OCR, image/video analysis  
-> ☁️ **Model Deployment:** Runpod, Hugging Face, Replicate, AWS, Docker  
+> 👉 **AI & Machine Learning:** Model training, fine-tuning, optimization, and evaluation  
+> 👉**Data Science:** Data analysis, visualization, and predictive modeling  
+> 👉 **Generative AI & Chatbots:** LLM integration, LangChain, RAG, STT/TTS, and conversational AI systems  
+> 👉 **Voice & Automation Systems:** Voice AI agents (Vapi AI, Retell AI, Twilio), workflow automation (n8n, Zapier, Make.com)  
+> 👉 **Computer Vision:** AI avatars & video generation, visual search, OCR, image/video analysis  
+> 👉 **Model Deployment:** Runpod, Hugging Face, Replicate, AWS, Docker  
 
 <details>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h3>🛠️ My Favorite Tools</h3></summary>
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </table>
 </details>
 
-## 🤝**Let's Connect.**
+<h3>🤝Let's Connect.</h3>
 
 <div align="center">
 
@@ -117,8 +117,9 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
   </td>
 </tr>
 </table>
-
-
+<br/>
+<br/>
+<hr style="border: 1px solid black; width: 80%; margin: auto;" />
 ### 💖 *"If you find my work interesting, consider giving a ⭐ to my repositories!"*
 
 </div>
