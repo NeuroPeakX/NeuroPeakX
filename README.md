@@ -1,29 +1,34 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome!+👋;+I'm+NeuroPeakX!;" />
 </h1>
+
 <h3 align="center">🚀 AI Engineer & Data Scientist</h3>
 <h4 align="center">
   Building Intelligent Systems with AI & Data | OpenAI • LangChain • LLM • AI Chatbots • NLP • Voice AI • Automation • Data Analytics
 </h4>
-<h3> ✨ About Me </h3> 
+<hr style="border: 0.5 solid #999; width: 80;" />
+<h3>✨ About Me</h3>
 
-I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
+<p>
+I'm an <strong>AI Engineer & Data Scientist</strong> passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in <strong>end-to-end AI systems</strong> — from model development and data pipelines to real-world deployment.
+</p>
 
 #### 🧠 **What I Bring to the Table**
-
 > 👉 **AI & Machine Learning:** Model training, fine-tuning, optimization, and evaluation  
 > 👉 **Data Science:** Data analysis, visualization, and predictive modeling  
 > 👉 **Generative AI & Chatbots:** LLM integration, LangChain, RAG, STT/TTS, and conversational AI systems  
 > 👉 **Voice & Automation Systems:** Voice AI agents (Vapi AI, Retell AI, Twilio), workflow automation (n8n, Zapier, Make.com)  
 > 👉 **Computer Vision:** AI avatars & video generation, visual search, OCR, image/video analysis  
-> 👉 **Model Deployment:** Runpod, Hugging Face, Replicate, AWS, Docker  
+> 👉 **Model Deployment:** Runpod, Hugging Face, Replicate, AWS, Docker
+ 
+<hr style="border: 0.5 solid #999; width: 80;" />
+<h3>🛠️ My Favorite Tools</h3>
 
-<details>
-  <summary><h3>🛠️ My Favorite Tools</h3></summary>
-<table>
-  <tr>
-    <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200"></td>
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200"></td>
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/langchain.png?raw=true" width="200"></td>
@@ -77,36 +82,37 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/blockchain/solidity.png?raw=true" width="200"></td>
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/blockchain/NFT.jpg?raw=true" width="200"></td>
   </tr>
-</table>
-</details>
-
-<h3>🤝 Let's Connect.</h3>
+  </table>
+</div>
+<hr style="border: 0.5 solid #999; width: 80;" />
+<h3>🤝 Let's Connect</h3>
 
 <div align="center">
 
-### 💬 *"Neural power, Human creativity, Infinite possibilities — together!"*
+### 💬 *"Neural power, Human creativity, Infinite possibilities — together!"* 
 <br/>
-<table style="border-collapse: collapse; border: none;">
+
+<table style="border-collapse: collapse; margin: auto;">
 <tr>
-  <td align="center" style="border: none;">
+  <td align="center" style="padding: 10px;">
     <a href="">
       <img src="https://img.icons8.com/color/96/domain.png" width="40"/><br>
       <strong>Portfolio</strong>
     </a>
   </td>
-  <td align="center" style="border: none;">
+  <td align="center" style="padding: 10px;">
     <a href="https://discord.gg/2F83qtdW">
       <img src="https://img.icons8.com/color/96/discord.png" width="40"/><br>
       <strong>Discord</strong>
     </a>
   </td>
-  <td align="center" style="border: none;">
+  <td align="center" style="padding: 10px;">
     <a href="https://t.me/neuropeakx" target="_blank">
       <img src="https://img.icons8.com/color/96/telegram-app.png" width="40"/><br>
       <strong>Telegram</strong>
     </a>
   </td>
-  <td align="center" style="border: none;">
+  <td align="center" style="padding: 10px;">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aidancharlton717@gmail.com" target="_blank">
       <img src="https://img.icons8.com/color/96/gmail.png" width="40"/><br>
       <strong>Email</strong>
@@ -115,7 +121,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </tr>
 </table>
 <br/>
-<hr style="border: 0.5px solid #999; width: 80%; margin: 20px auto;" />
-### 💖 *"If you find my work interesting, consider giving a ⭐ to my repositories!"*
+<hr style="border: 0.5 solid #999; width: 80;" />
+<p style="text-align:center;">💖 <em>If you find my work interesting, consider giving a ⭐ to my repositories!</em></p>
 
 </div>
