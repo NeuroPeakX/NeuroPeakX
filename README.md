@@ -5,14 +5,14 @@
 <h4 align="center">
   Building Intelligent Systems with AI & Data | OpenAI • LangChain • LLM • AI Chatbots • NLP • Voice AI • Automation • Data Analytics
 </h4>
-<h3> ✨About Me </h3> 
+<h3> ✨ About Me </h3> 
 
 I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
 
 #### 🧠 **What I Bring to the Table**
 
 > 👉 **AI & Machine Learning:** Model training, fine-tuning, optimization, and evaluation  
-> 👉**Data Science:** Data analysis, visualization, and predictive modeling  
+> 👉 **Data Science:** Data analysis, visualization, and predictive modeling  
 > 👉 **Generative AI & Chatbots:** LLM integration, LangChain, RAG, STT/TTS, and conversational AI systems  
 > 👉 **Voice & Automation Systems:** Voice AI agents (Vapi AI, Retell AI, Twilio), workflow automation (n8n, Zapier, Make.com)  
 > 👉 **Computer Vision:** AI avatars & video generation, visual search, OCR, image/video analysis  
@@ -80,7 +80,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </table>
 </details>
 
-<h3>🤝Let's Connect.</h3>
+<h3>🤝 Let's Connect.</h3>
 
 <div align="center">
 
