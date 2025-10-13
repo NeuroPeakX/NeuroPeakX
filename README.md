@@ -5,8 +5,6 @@
 <h4 align="center">
   Building Intelligent Systems with AI & Data | OpenAI • LangChain • LLM • AI Chatbots • NLP • Voice AI • Automation • Data Analytics
 </h4>
-<br/>
-
 <h3> ✨About Me </h3> 
 
 I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
@@ -22,7 +20,6 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 
 <details>
   <summary><h3>🛠️ My Favorite Tools</h3></summary>
-
 <table>
   <tr>
     <td><img src="https://github.com/NeuroPeakX/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
@@ -88,7 +85,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 <div align="center">
 
 ### 💬 *"Neural power, Human creativity, Infinite possibilities — together!"*
-
+<br/>
 <table style="border-collapse: collapse; border: none;">
 <tr>
   <td align="center" style="border: none;">
@@ -118,8 +115,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </tr>
 </table>
 <br/>
-<br/>
-<hr style="border: 1px solid black; width: 80%; margin: auto;" />
+<hr style="border: 0.1px solid black; width: 80%; margin: auto;" />
 ### 💖 *"If you find my work interesting, consider giving a ⭐ to my repositories!"*
 
 </div>
