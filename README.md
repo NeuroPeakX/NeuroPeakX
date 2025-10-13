@@ -1,21 +1,17 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome!+👋;+I'm+NeuroPeakX!;" />
 </h1>
-
 <h3 align="center">🚀 AI Engineer & Data Scientist</h3>
 <h4 align="center">
   Building Intelligent Systems with AI & Data | OpenAI • LangChain • LLM • AI Chatbots • NLP • Voice AI • Automation • Data Analytics
 </h4>
 <br/>
 
----
-
 ## 👨‍💻 **About Me**
 
-I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence.  
-I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
+I'm an **AI Engineer & Data Scientist** passionate about building intelligent, data-driven solutions that bridge human creativity and machine intelligence. I specialize in **end-to-end AI systems** — from model development and data pipelines to real-world deployment.
 
-### 🧠 **What I Bring to the Table**
+#### 🧠 **What I Bring to the Table**
 
 > 💡 **AI & Machine Learning:** Model training, fine-tuning, optimization, and evaluation  
 > 📊 **Data Science:** Data analysis, visualization, and predictive modeling  
@@ -91,11 +87,11 @@ I specialize in **end-to-end AI systems** — from model development and data pi
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝**Let's Connect.**
 
 <div align="center">
 
-### 💬 *"Neural power. Human creativity. Infinite possibilities — together!"*
+### 💬 *"Neural power, Human creativity, Infinite possibilities — together!"*
 
 <table style="border-collapse: collapse; border: none;">
 <tr>
@@ -106,13 +102,13 @@ I specialize in **end-to-end AI systems** — from model development and data pi
     </a>
   </td>
   <td align="center" style="border: none;">
-    <a href="">
+    <a href="https://discord.gg/2F83qtdW">
       <img src="https://img.icons8.com/color/96/discord.png" width="40"/><br>
       <strong>Discord</strong>
     </a>
   </td>
   <td align="center" style="border: none;">
-    <a href="https://t.me/yourtelegramusername" target="_blank">
+    <a href="https://t.me/neuropeakx" target="_blank">
       <img src="https://img.icons8.com/color/96/telegram-app.png" width="40"/><br>
       <strong>Telegram</strong>
     </a>
