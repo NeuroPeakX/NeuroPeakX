@@ -115,7 +115,7 @@ I'm an **AI Engineer & Data Scientist** passionate about building intelligent, d
 </tr>
 </table>
 <br/>
-<hr style="border: 0.1px solid black; width: 80%; margin: auto;" />
+<hr style="border: 0.5px solid #999; width: 80%; margin: 20px auto;" />
 ### 💖 *"If you find my work interesting, consider giving a ⭐ to my repositories!"*
 
 </div>
